@@ -1,3 +1,35 @@
+29/08/2024
+
+Este proyecto forma parte de un curso impartido por SergieCode.
+
+Esta es la primera vez que consumo una API.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Link al curso completo de Javascript en Youtube:
 [VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
 
